@@ -15,7 +15,7 @@ const Hero = () => {
           <div className='w-1 sm:h-80 h-40 violet-gradient' />
         </div>
 
-        <div className="flex flex-row items-start gap-6">
+        <div className="flex flex-row justify-between items-start w-full">
           <div>
             <h1 className={`${styles.heroHeadText} text-white`}>
               Hi, I'm <span className='text-[#915EFF]'>Qi Jun</span>
@@ -26,11 +26,13 @@ const Hero = () => {
             </p>
           </div>
 
-          <img
-            src={myPhoto}
-            alt="Qi Jun"
-            className="w-40 h-40 rounded-full object-cover border-2 border-[#915EFF]"
-          />
+          <div className="hidden sm:block">
+            <img
+              src={myPhoto}
+              alt="Qi Jun"
+              className="w-56 h-56 rounded-full object-cover border-4 border-[#915EFF] shadow-lg"
+            />
+          </div>
         </div>
       </div>
 

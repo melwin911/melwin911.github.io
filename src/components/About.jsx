@@ -54,7 +54,7 @@ const About = () => {
       </motion.p>
 
       <div className='mt-8'>
-        <a href='/assets/ChiaQiJun_Resume.pdf' download>
+        <a href='/assets/resume.pdf' download>
           <button className='bg-primary text-white px-4 py-2 rounded-md border-2 border-secondary hover:bg-secondary transition duration-300 ease-in-out'>
             Download my resume!
           </button>

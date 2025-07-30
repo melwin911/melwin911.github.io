@@ -39,6 +39,7 @@ import hackrift from "./hackrift.png";
 import ml from "./ml.png";
 import workato from "./workato.png";
 import linkedin from "./linkedin.png";
+import me from "./me.jpg"
 
 export {
   logo,
@@ -78,5 +79,6 @@ export {
   tableau,
   oracle,
   workato,
-  linkedin
+  linkedin,
+  me
 };

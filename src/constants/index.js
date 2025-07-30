@@ -181,7 +181,7 @@ const experiences = [
     date: "August 2023 - Present",
     points: [
       "Undergraduate - Currently pursuing a degree in Software Engineering.",
-      "Current cGPA: 4.36/ 5",
+      "Current cGPA: 4.46/ 5",
       "Graduating in 2027.",
     ],
   },

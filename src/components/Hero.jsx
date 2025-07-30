@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import myPhoto from "../assets/me.jpg";
 
 const Hero = () => {
   return (
@@ -14,14 +15,22 @@ const Hero = () => {
           <div className='w-1 sm:h-80 h-40 violet-gradient' />
         </div>
 
-        <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className='text-[#915EFF]'>Qi Jun</span>
-          </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            Aspiring Software Developer/ Engineer <br className='sm:block hidden' />
-            Currently studying at the Singapore Institute of Technology (SIT)
-          </p>
+        <div className="flex flex-row items-start gap-6">
+          <div>
+            <h1 className={`${styles.heroHeadText} text-white`}>
+              Hi, I'm <span className='text-[#915EFF]'>Qi Jun</span>
+            </h1>
+            <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+              Aspiring Software Developer/ Engineer <br className='sm:block hidden' />
+              Currently studying at the Singapore Institute of Technology (SIT)
+            </p>
+          </div>
+
+          <img
+            src={myPhoto}
+            alt="Qi Jun"
+            className="w-40 h-40 rounded-full object-cover border-2 border-[#915EFF]"
+          />
         </div>
       </div>
 

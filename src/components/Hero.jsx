@@ -26,7 +26,7 @@ const Hero = () => {
             </p>
           </div>
 
-          <div className="hidden sm:block">
+          <div className="hidden sm:block mr-10">
             <img
               src={myPhoto}
               alt="Qi Jun"

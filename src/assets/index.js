@@ -38,6 +38,7 @@ import mad from "./mad.png";
 import hackrift from "./hackrift.png";
 import ml from "./ml.png";
 import workato from "./workato.png";
+import linkedin from "./linkedin.png";
 
 export {
   logo,
@@ -76,5 +77,6 @@ export {
   python,
   tableau,
   oracle,
-  workato
+  workato,
+  linkedin
 };

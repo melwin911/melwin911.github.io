@@ -42,7 +42,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
+          <p className='text-white text-[32px] font-bold cursor-pointer flex '>
             Chia Qi Jun &nbsp;
             <span className='sm:block hidden'> |&nbsp;&nbsp;Portfolio </span>
           </p>

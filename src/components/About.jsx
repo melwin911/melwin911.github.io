@@ -46,7 +46,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        As a driven Year 2 Software Engineering student at Singapore Institute of Technology, 
+        As a driven Year 3 Software Engineering student at Singapore Institute of Technology, 
         I excel in rapidly acquiring new skills and tackling complex challenges. 
         With a strong passion for software development and problem-solving, I am eager to apply my expertise in a real-world setting. 
         I am currently seeking an internship opportunity in Software Development/ Machine Learning/ Data Analytics, 

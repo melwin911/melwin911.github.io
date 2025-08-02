@@ -182,7 +182,7 @@ const experiences = [
     points: [
       "Undergraduate - Currently pursuing a degree in Software Engineering.",
       "Current cGPA: 4.46/ 5",
-      "As a Natural Language Processing Research Assistant, I utilized NLP techniques to develop multilingual translation models for teaching materials in Chinese, Spanish and French, enhancing accessibility for over 200 overseas exchange students. ",
+      "As a Natural Language Processing Research Assistant under the SIT Work Scheme, I utilized NLP techniques to develop multilingual translation models for teaching materials in Chinese, Spanish and French, enhancing accessibility for over 200 overseas exchange students. ",
       "Graduating in 2027.",
     ],
   },

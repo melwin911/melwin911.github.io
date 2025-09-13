@@ -301,7 +301,7 @@ const projects = [
       },
     ],
     image: progfund,
-    source_code_link: "https://github.com/melwin911/INF1002",
+    source_code_link: "https://github.com/melwin911/INF1002_PythonProject",
   },
   {
     name: "VishShield",
@@ -322,7 +322,7 @@ const projects = [
       },
     ],
     image: dsa,
-    source_code_link: "https://github.com/melwin911/INF1008",
+    source_code_link: "https://github.com/melwin911/INF1008_DSA",
   },
   {
     name: "ClearCare",
